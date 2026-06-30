@@ -1,0 +1,65 @@
+[
+  {
+    "query": "What is the compensation structure for senior leadership?",
+    "relevant": [
+      "exec_compensation_leadership-compensat_000_a7647c"
+    ],
+    "tag": "leak-test"
+  },
+  {
+    "query": "What does error ERR-5021 mean?",
+    "relevant": [
+      "it_support_vpn-errors_000_24918c"
+    ],
+    "tag": "exact-term"
+  },
+  {
+    "query": "When is Form HR-26 due?",
+    "relevant": [
+      "hr_forms_form-hr-26_000_63a8f2"
+    ],
+    "tag": "exact-term"
+  },
+  {
+    "query": "How many weeks of parental leave do I get?",
+    "relevant": [
+      "leave_policy_parental-leave_001_671d50"
+    ],
+    "tag": "semantic"
+  },
+  {
+    "query": "How many days a week can I work from home?",
+    "relevant": [
+      "remote_work_remote-work-eligibil_000_bf31ba"
+    ],
+    "tag": "semantic"
+  },
+  {
+    "query": "What is the annual learning budget?",
+    "relevant": [
+      "benefits_learning-budget_001_33610e"
+    ],
+    "tag": "semantic"
+  },
+  {
+    "query": "How do I get production database access?",
+    "relevant": [
+      "it_support_production-access_002_58f0a5"
+    ],
+    "tag": "semantic"
+  },
+  {
+    "query": "How much time off do new parents get?",
+    "relevant": [
+      "leave_policy_parental-leave_001_671d50"
+    ],
+    "tag": "paraphrase"
+  },
+  {
+    "query": "Money for courses and conferences?",
+    "relevant": [
+      "benefits_learning-budget_001_33610e"
+    ],
+    "tag": "paraphrase"
+  }
+]

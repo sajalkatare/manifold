@@ -1,0 +1,197 @@
+{
+  "summary": {
+    "embedder": "openai:text-embedding-3-small",
+    "store": "pgvector(langchain)",
+    "n_queries": 8,
+    "mean_hit@5": 1.0,
+    "mean_recall@5": 1.0,
+    "mean_precision@5": 0.225
+  },
+  "rows": [
+    {
+      "query": "How many weeks of parental leave do I get?",
+      "top5": [
+        "leave_policy_parental-leave_001_671d50",
+        "leave_policy_earned-leave_002_9cf47c",
+        "leave_policy_bereavement-leave_003_13546e",
+        "leave_policy_sick-leave_000_b19a38",
+        "remote_work_remote-work-eligibil_000_bf31ba"
+      ],
+      "top5_sections": [
+        "Parental Leave",
+        "Earned Leave",
+        "Bereavement Leave",
+        "Sick Leave",
+        "Remote Work Eligibility"
+      ],
+      "relevant": [
+        "leave_policy_parental-leave_001_671d50"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "How many sick days am I entitled to per year?",
+      "top5": [
+        "leave_policy_sick-leave_000_b19a38",
+        "leave_policy_parental-leave_001_671d50",
+        "leave_policy_earned-leave_002_9cf47c",
+        "leave_policy_bereavement-leave_003_13546e",
+        "remote_work_remote-work-eligibil_000_bf31ba"
+      ],
+      "top5_sections": [
+        "Sick Leave",
+        "Parental Leave",
+        "Earned Leave",
+        "Bereavement Leave",
+        "Remote Work Eligibility"
+      ],
+      "relevant": [
+        "leave_policy_sick-leave_000_b19a38"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "How many days a week can I work from home?",
+      "top5": [
+        "remote_work_remote-work-eligibil_000_bf31ba",
+        "remote_work_home-office-stipend_002_7fbfd6",
+        "leave_policy_parental-leave_001_671d50",
+        "remote_work_core-hours_001_6783bd",
+        "leave_policy_sick-leave_000_b19a38"
+      ],
+      "top5_sections": [
+        "Remote Work Eligibility",
+        "Home Office Stipend",
+        "Parental Leave",
+        "Core Hours",
+        "Sick Leave"
+      ],
+      "relevant": [
+        "remote_work_remote-work-eligibil_000_bf31ba"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "When are expenses reimbursed and do I need receipts?",
+      "top5": [
+        "expenses_receipts_001_e89e13",
+        "expenses_reimbursement-timeli_000_b57799",
+        "expenses_travel-booking_002_a96ac8",
+        "benefits_wellness-program_003_066b7f",
+        "expenses_per-diem_003_91f14e"
+      ],
+      "top5_sections": [
+        "Receipts",
+        "Reimbursement Timeline",
+        "Travel Booking",
+        "Wellness Program",
+        "Per Diem"
+      ],
+      "relevant": [
+        "expenses_reimbursement-timeli_000_b57799",
+        "expenses_receipts_001_e89e13"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "query": "What is the password rotation policy?",
+      "top5": [
+        "security_password-policy_000_cc18cb",
+        "security_mfa_001_03b494",
+        "onboarding_probation-period_001_00d164",
+        "benefits_retirement-plan_001_e8a657",
+        "security_data-classification_002_777c21"
+      ],
+      "top5_sections": [
+        "Password Policy",
+        "MFA",
+        "Probation Period",
+        "Retirement Plan",
+        "Data Classification"
+      ],
+      "relevant": [
+        "security_password-policy_000_cc18cb"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "Is multi-factor authentication required?",
+      "top5": [
+        "security_mfa_001_03b494",
+        "security_password-policy_000_cc18cb",
+        "expenses_receipts_001_e89e13",
+        "remote_work_remote-work-eligibil_000_bf31ba",
+        "security_data-classification_002_777c21"
+      ],
+      "top5_sections": [
+        "MFA",
+        "Password Policy",
+        "Receipts",
+        "Remote Work Eligibility",
+        "Data Classification"
+      ],
+      "relevant": [
+        "security_mfa_001_03b494"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "What is the annual learning budget?",
+      "top5": [
+        "benefits_learning-budget_002_351dd9",
+        "remote_work_home-office-stipend_002_7fbfd6",
+        "benefits_wellness-program_003_066b7f",
+        "expenses_per-diem_003_91f14e",
+        "onboarding_equipment_002_5ebd51"
+      ],
+      "top5_sections": [
+        "Learning Budget",
+        "Home Office Stipend",
+        "Wellness Program",
+        "Per Diem",
+        "Equipment"
+      ],
+      "relevant": [
+        "benefits_learning-budget_002_351dd9"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    },
+    {
+      "query": "How fast is a priority 1 support issue answered?",
+      "top5": [
+        "support_sla_response-times_000_c8cb9a",
+        "support_sla_escalation_001_6e31a3",
+        "security_incident-reporting_003_218260",
+        "expenses_reimbursement-timeli_000_b57799",
+        "remote_work_core-hours_001_6783bd"
+      ],
+      "top5_sections": [
+        "Response Times",
+        "Escalation",
+        "Incident Reporting",
+        "Reimbursement Timeline",
+        "Core Hours"
+      ],
+      "relevant": [
+        "support_sla_response-times_000_c8cb9a"
+      ],
+      "hit@5": 1,
+      "recall@5": 1.0,
+      "precision@5": 0.2
+    }
+  ]
+}

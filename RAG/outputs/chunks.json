@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "messy_policy_p1_leave-benefits-polic_000_e203b7",
+    "content": "ve January 2024 and supersede prior versions.",
+    "source": "messy_policy.pdf",
+    "page": 1,
+    "section": "Leave & Benefits Policy",
+    "document_type": "policy",
+    "chunk_index": 0,
+    "char_len": 45,
+    "global_index": 0
+  },
+  {
+    "chunk_id": "messy_policy_p1_section-1-leave-enti_000_459a95",
+    "content": "Note: Parental Leave (26 weeks) must not be confused with Sick Leave (5 days). They appear i\nn adjacent rows but are entirely different entitlements.",
+    "source": "messy_policy.pdf",
+    "page": 1,
+    "section": "Section 1 — Leave Entitlement Table",
+    "document_type": "policy",
+    "chunk_index": 0,
+    "char_len": 149,
+    "global_index": 1
+  },
+  {
+    "chunk_id": "messy_policy_p2_2-1-sick-leave_000_f3baed",
+    "content": "Sick leave is available to all\nemployees from day one of\nemployment. A maximum of five\ndays per calendar year may be\ntaken. Sick leave does not carry\nforward to the next year and is\nnot encashable on exit.\nA medical certificate is required\nfor absences longer than two\nconsecutive working days.",
+    "source": "messy_policy.pdf",
+    "page": 2,
+    "section": "2.1 Sick Leave",
+    "document_type": "policy",
+    "chunk_index": 0,
+    "char_len": 294,
+    "global_index": 2
+  },
+  {
+    "chunk_id": "messy_policy_p2_2-2-parental-leave_000_b86aef",
+    "content": "Parental leave is available to\nemployees after one year of\ncontinuous service. Eligible\nemployees are entitled to twenty\nsix (26) weeks of leave per\nchild. Parental leave must be\napplied for at least 30 days in\nadvance where possible.\nParental leave is separate from\nand additional to earned leave.",
+    "source": "messy_policy.pdf",
+    "page": 2,
+    "section": "2.2 Parental Leave",
+    "document_type": "policy",
+    "chunk_index": 0,
+    "char_len": 298,
+    "global_index": 3
+  },
+  {
+    "chunk_id": "messy_policy_p1_table-1_000_e22646",
+    "content": "[TABLE]\nLeave Type: Sick Leave | Eligibility: All employees | Entitlement: 5 days / year | Carry Forward: No\nLeave Type: Casual Leave | Eligibility: All employees | Entitlement: 12 days / year | Carry Forward: No\nLeave Type: Earned Leave | Eligibility: After 1 year | Entitlement: 18 days / year | Carry Forward: Up to 30 days\nLeave Type: Parental Leave | Eligibility: After 1 year | Entitlement: 26 weeks | Carry Forward: No\nLeave Type: Bereavement | Eligibility: All employees | Entitlement: 5 days / event | Carry Forward: No",
+    "source": "messy_policy.pdf",
+    "page": 1,
+    "section": "Table 1",
+    "document_type": "policy",
+    "chunk_index": 0,
+    "char_len": 528,
+    "global_index": 4
+  }
+]

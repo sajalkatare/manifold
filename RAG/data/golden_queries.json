@@ -1,0 +1,51 @@
+[
+  {
+    "query": "How many weeks of parental leave do I get?",
+    "relevant": [
+      "leave_policy_parental-leave_001_671d50"
+    ]
+  },
+  {
+    "query": "How many sick days am I entitled to per year?",
+    "relevant": [
+      "leave_policy_sick-leave_000_b19a38"
+    ]
+  },
+  {
+    "query": "How many days a week can I work from home?",
+    "relevant": [
+      "remote_work_remote-work-eligibil_000_bf31ba"
+    ]
+  },
+  {
+    "query": "When are expenses reimbursed and do I need receipts?",
+    "relevant": [
+      "expenses_reimbursement-timeli_000_b57799",
+      "expenses_receipts_001_e89e13"
+    ]
+  },
+  {
+    "query": "What is the password rotation policy?",
+    "relevant": [
+      "security_password-policy_000_cc18cb"
+    ]
+  },
+  {
+    "query": "Is multi-factor authentication required?",
+    "relevant": [
+      "security_mfa_001_03b494"
+    ]
+  },
+  {
+    "query": "What is the annual learning budget?",
+    "relevant": [
+      "benefits_learning-budget_002_351dd9"
+    ]
+  },
+  {
+    "query": "How fast is a priority 1 support issue answered?",
+    "relevant": [
+      "support_sla_response-times_000_c8cb9a"
+    ]
+  }
+]

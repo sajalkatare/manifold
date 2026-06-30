@@ -1,0 +1,202 @@
+[
+  {
+    "chunk_id": "leave_policy_sick-leave_000_b19a38",
+    "content": "All employees are entitled to 5 days of paid sick leave per year. Sick leave does not carry forward and is not encashable on exit. A medical certificate is required for absences longer than two days.",
+    "source": "leave_policy.md",
+    "page": 1,
+    "section": "Sick Leave",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "leave_policy_parental-leave_001_671d50",
+    "content": "Employees with at least one year of service are entitled to 26 weeks of parental leave per child. Parental leave must be requested at least 30 days in advance and is separate from earned leave.",
+    "source": "leave_policy.md",
+    "page": 1,
+    "section": "Parental Leave",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "leave_policy_earned-leave_002_9cf47c",
+    "content": "Earned leave accrues at 18 days per year after the first year of service. Up to 30 days of earned leave may be carried forward to the next year.",
+    "source": "leave_policy.md",
+    "page": 1,
+    "section": "Earned Leave",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "leave_policy_bereavement-leave_003_13546e",
+    "content": "Employees may take 5 days of paid bereavement leave per event for the loss of an immediate family member.",
+    "source": "leave_policy.md",
+    "page": 1,
+    "section": "Bereavement Leave",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "remote_work_remote-work-eligibil_000_bf31ba",
+    "content": "Employees may work remotely up to three days per week with manager approval. Fully remote arrangements require director sign-off.",
+    "source": "remote_work.md",
+    "page": 1,
+    "section": "Remote Work Eligibility",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "remote_work_core-hours_001_6783bd",
+    "content": "Core collaboration hours are 11:00 AM to 4:00 PM in the employee's local time zone. Meetings should be scheduled within core hours where possible.",
+    "source": "remote_work.md",
+    "page": 1,
+    "section": "Core Hours",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "remote_work_home-office-stipend_002_7fbfd6",
+    "content": "Remote employees receive a one-time home office stipend of 300 USD for equipment such as a chair, desk, or monitor.",
+    "source": "remote_work.md",
+    "page": 1,
+    "section": "Home Office Stipend",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "expenses_reimbursement-timeli_000_b57799",
+    "content": "Approved business expenses are reimbursed within 14 days of submission through the finance portal.",
+    "source": "expenses.md",
+    "page": 1,
+    "section": "Reimbursement Timeline",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "expenses_receipts_001_e89e13",
+    "content": "Receipts are required for any expense above 25 USD. Expenses without receipts above this threshold will not be reimbursed.",
+    "source": "expenses.md",
+    "page": 1,
+    "section": "Receipts",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "expenses_travel-booking_002_a96ac8",
+    "content": "Flights and hotels booked through the company travel portal are billed directly to the company and do not require reimbursement.",
+    "source": "expenses.md",
+    "page": 1,
+    "section": "Travel Booking",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "expenses_per-diem_003_91f14e",
+    "content": "A daily per diem of 60 USD covers meals and incidentals during business travel.",
+    "source": "expenses.md",
+    "page": 1,
+    "section": "Per Diem",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "security_password-policy_000_cc18cb",
+    "content": "Passwords must be at least 12 characters and rotated every 90 days. Reusing any of the last five passwords is not permitted.",
+    "source": "security.md",
+    "page": 1,
+    "section": "Password Policy",
+    "document_type": "security"
+  },
+  {
+    "chunk_id": "security_mfa_001_03b494",
+    "content": "Multi-factor authentication is mandatory for all company systems. Hardware security keys are issued to employees handling production access.",
+    "source": "security.md",
+    "page": 1,
+    "section": "MFA",
+    "document_type": "security"
+  },
+  {
+    "chunk_id": "security_data-classification_002_777c21",
+    "content": "Company data is classified as Public, Internal, or Restricted. Restricted data, such as customer PII, may only be accessed on a need-to-know basis.",
+    "source": "security.md",
+    "page": 1,
+    "section": "Data Classification",
+    "document_type": "security"
+  },
+  {
+    "chunk_id": "security_incident-reporting_003_218260",
+    "content": "Suspected security incidents must be reported to the security team within one hour of discovery via the incident hotline.",
+    "source": "security.md",
+    "page": 1,
+    "section": "Incident Reporting",
+    "document_type": "security"
+  },
+  {
+    "chunk_id": "benefits_health-insurance_000_cab50d",
+    "content": "All full-time employees receive comprehensive health insurance covering medical, dental, and vision from their first day of employment.",
+    "source": "benefits.md",
+    "page": 1,
+    "section": "Health Insurance",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "benefits_retirement-plan_001_e8a657",
+    "content": "The company matches retirement contributions up to 5 percent of base salary after six months of service.",
+    "source": "benefits.md",
+    "page": 1,
+    "section": "Retirement Plan",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "benefits_learning-budget_002_351dd9",
+    "content": "Each employee has an annual learning budget of 1,000 USD for courses, books, and conferences related to their role.",
+    "source": "benefits.md",
+    "page": 1,
+    "section": "Learning Budget",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "benefits_wellness-program_003_066b7f",
+    "content": "The wellness program reimburses up to 50 USD per month for gym memberships or fitness apps.",
+    "source": "benefits.md",
+    "page": 1,
+    "section": "Wellness Program",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "onboarding_first-week_000_860461",
+    "content": "New hires complete IT setup, security training, and team introductions during their first week. A buddy is assigned to every new employee.",
+    "source": "onboarding.md",
+    "page": 1,
+    "section": "First Week",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "onboarding_probation-period_001_00d164",
+    "content": "The standard probation period is three months, during which performance and fit are reviewed before confirmation.",
+    "source": "onboarding.md",
+    "page": 1,
+    "section": "Probation Period",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "onboarding_equipment_002_5ebd51",
+    "content": "New employees receive a laptop and peripherals on day one. Equipment remains company property and must be returned on exit.",
+    "source": "onboarding.md",
+    "page": 1,
+    "section": "Equipment",
+    "document_type": "handbook"
+  },
+  {
+    "chunk_id": "support_sla_response-times_000_c8cb9a",
+    "content": "Priority 1 issues receive a response within 1 hour. Priority 2 within 4 hours, and Priority 3 within one business day.",
+    "source": "support_sla.md",
+    "page": 1,
+    "section": "Response Times",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "support_sla_escalation_001_6e31a3",
+    "content": "Unresolved Priority 1 issues are escalated to the on-call engineering lead after two hours.",
+    "source": "support_sla.md",
+    "page": 1,
+    "section": "Escalation",
+    "document_type": "policy"
+  },
+  {
+    "chunk_id": "support_sla_maintenance-windows_002_e27ef7",
+    "content": "Scheduled maintenance occurs on the first Sunday of each month between 2:00 AM and 5:00 AM UTC.",
+    "source": "support_sla.md",
+    "page": 1,
+    "section": "Maintenance Windows",
+    "document_type": "policy"
+  }
+]
