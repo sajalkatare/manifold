@@ -24,10 +24,8 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_postgres import PGVector
 from langgraph.graph import END, START, StateGraph
 
-try:
-    from langchain.retrievers import EnsembleRetriever
-except ImportError:
-    from langchain_classic.retrievers import EnsembleRetriever
+
+from langchain_classic.retrievers import EnsembleRetriever
 
 EMBED_MODEL = "text-embedding-3-small"
 COLLECTION = "session3_secure_kb"
@@ -148,8 +146,8 @@ def sections(results):
 
 
 def main():
-    chunks = load_json("data/chunks.json")
-    golden = load_json("data/golden_queries.json")
+    chunks = load_json("RAG-Access-Control\\data\\chunks.json")
+    golden = load_json("RAG-Access-Control\\data\\golden_queries.json")
     docs = to_documents(chunks)
     emb = get_embedder()
 

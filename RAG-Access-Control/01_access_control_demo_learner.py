@@ -89,7 +89,7 @@ def rule(s):
 
 
 def main(query):
-    chunks = load_chunks("data/chunks.json")
+    chunks = load_chunks("RAG-Access-Control\\data\\chunks.json")
     docs = to_documents(chunks)
     emb = get_embedder()
 
